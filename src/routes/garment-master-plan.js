@@ -3,7 +3,7 @@ module.exports = [
         route: '/garment-master-plan/weekly-plan',
         name: 'weekly-plan',
         moduleId: './modules/garment-master-plan/weekly-plan/index',
-        nav: true,
+        nav: false,
         title: 'Master Minggu',
         auth: true,
         settings: {
@@ -16,7 +16,7 @@ module.exports = [
         route: '/garment-master-plan/working-hours-standard',
         name: 'working-hours-standard',
         moduleId: './modules/garment-master-plan/working-hours-standard/index',
-        nav: true,
+        nav: false,
         title: 'Standar Jam Kerja',
         auth: true,
         settings: {
@@ -29,7 +29,7 @@ module.exports = [
     //     route: '/garment-master-plan/style',
     //     name: 'style',
     //     moduleId: './modules/garment-master-plan/style/index',
-    //     nav: true,
+    //     nav: false,
     //     title: 'Master Style',
     //     auth: true,
     //     settings: {
@@ -42,7 +42,7 @@ module.exports = [
         route: '/garment-master-plan/booking-order',
         name: 'booking-order',
         moduleId: './modules/garment-master-plan/booking-order/index',
-        nav: true,
+        nav: false,
         title: 'Booking Order',
         auth: true,
         settings: {
@@ -55,7 +55,7 @@ module.exports = [
         route: '/garment-master-plan/sewing-blocking-plan',
         name: 'sewing-blocking-plan',
         moduleId: './modules/garment-master-plan/sewing-blocking-plan/index',
-        nav: true,
+        nav: false,
         title: 'Blocking Plan Sewing',
         auth: true,
         settings: {
@@ -68,7 +68,7 @@ module.exports = [
         route: '/garment-master-plan/standard-minute-value',
         name: 'standard-hour',
         moduleId: './modules/garment-master-plan/standard-hour/index',
-        nav: true,
+        nav: false,
         title: 'Standard Minute Value',
         auth: true,
         settings: {
@@ -81,7 +81,7 @@ module.exports = [
         route: '/garment-master-plan/master-plan-comodity',
         name: 'master-plan-comodity',
         moduleId: './modules/garment-master-plan/master-plan-comodity/index',
-        nav: true,
+        nav: false,
         title: 'Komoditi',
         auth: true,
         settings: {
@@ -94,7 +94,7 @@ module.exports = [
         route: '/garment-master-plan/monitoring-booking-order',
         name: 'monitoring-booking-order',
         moduleId: './modules/garment-master-plan/monitoring-booking-order/index',
-        nav: true,
+        nav: false,
         title: 'Monitoring Booking Order',
         auth: true,
         settings: {
@@ -107,7 +107,7 @@ module.exports = [
         route: '/garment-master-plan/garment-section',
         name: 'garment-section',
         moduleId: './modules/garment-master-plan/garment-section/index',
-        nav: true,
+        nav: false,
         title: 'Master Seksi',
         auth: true,
         settings: {
